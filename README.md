@@ -1,2 +1,2 @@
 # NLProokie
-My first attenpt at NLP projects
+My first attempt at NLP projects
